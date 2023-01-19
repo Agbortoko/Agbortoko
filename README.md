@@ -1,3 +1,7 @@
+- ![Agbortoko Arreychuck Github stats](https://github-readme-stats.vercel.app/api?username=Agbortoko&show_icons=true&theme=radical)
+- 
+- 
+- 
 - 👋 Hi, I’m @Agbortoko
 - 👀 I’m interested Web programming,  Graphic design...
 - 🌱 I’m currently a Graphic designer / Front end Website designer with a little backend knowledge ...
