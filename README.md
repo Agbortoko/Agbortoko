@@ -2,7 +2,7 @@
   <h1> Hello! 👋🏻 I'm Agbortoko Arreychuck (RabbitMaid) </h1>
  </div>
 
-<div align="center">
+<div align="center" style="vertical-align: middle!important;">
 
 ![Agbortoko Arreychuck Github stats](https://github-readme-stats.vercel.app/api?username=Agbortoko&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agbortoko&layout=compact)
 
