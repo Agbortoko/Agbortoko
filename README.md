@@ -1,6 +1,9 @@
 <div align="center">
   <h1> Hello! 👋🏻 I'm Agbortoko Arreychuck (RabbitMaid) </h1>
  </div>
+ 
+ 
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=E5C07B&width=700&height=60&lines=A+passionate+frontend+developer+and+avid+learner" alt="Typing SVG" width="700" /></a></div>
 
 <div align="center">
 
