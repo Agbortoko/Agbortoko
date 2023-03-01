@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Agbortoko&style=for-the-badge)
 
-
+<hr>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Agbortoko"> <img src="https://badges.strrl.dev/repos/Agbortoko"></div>
 
