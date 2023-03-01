@@ -1,6 +1,8 @@
 # Hello! 👋🏻 I'm Agbortoko Arreychuck (RabbitMaid) 
 
+<div align="center">
 ![Agbortoko Arreychuck Github stats](https://github-readme-stats.vercel.app/api?username=Agbortoko&show_icons=true&theme=radical)
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agbortoko&layout=compact)
 
