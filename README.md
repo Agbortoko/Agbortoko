@@ -1,4 +1,6 @@
-# Hello! 👋🏻 I'm Agbortoko Arreychuck (RabbitMaid) 
+<div align="center">
+  # Hello! 👋🏻 I'm Agbortoko Arreychuck (RabbitMaid) 
+ </div>
 
 ![Agbortoko Arreychuck Github stats](https://github-readme-stats.vercel.app/api?username=Agbortoko&show_icons=true&theme=radical)
 
@@ -23,7 +25,7 @@
 
 
 <h2>:wrench: Languages and Tools</h3>
-<div align="center"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">  <img src="https://img.shields.io/badge/javascript-hotpink.svg?style=for-the-badge&logo=javascript&logoColor=white">
+<div align="center"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">  <img src="https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white">
 
 <h2>:fire: GitHub Statistics</h2>
 
