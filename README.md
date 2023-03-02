@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello! 👋🏻 I'm Agbortoko Arreychuck (<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=0EA4F7&multiline=true&width=435&lines=RabbitMaid" alt="Typing SVG" /></a>) </h1>
+  <h1> Hello! 👋🏻 I'm Agbortoko Arreychuck (RabbitMaid)" alt="Typing SVG" /></a>) </h1>
  </div>
  
  
