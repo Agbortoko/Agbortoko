@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello! 👋🏻 I'm Agbortoko Arreychuck (RabbitMaid)" alt="Typing SVG" /></a>) </h1>
+  <h1> Hello! 👋🏻 I'm Agbortoko Arreychuck (RabbitMaid)" alt="Typing SVG" </h1>
  </div>
  
  
