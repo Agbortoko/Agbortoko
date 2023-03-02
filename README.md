@@ -1,13 +1,11 @@
 
 <a href="https://github.com/Agbortoko"><img src="header.png" width="100%"></a>
 
-<hr>
 
 
 <h1 align="center"> Hello! 👋🏻 I'm Agbortoko Arreychuck (RabbitMaid) </h1>
 
- 
- <hr>
+
  
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7DC5B&width=435&lines=Passionate+Full-stack+Web+developer" alt="Typing SVG" /></a></div>
 
@@ -19,14 +17,14 @@
   
 </div>
 
-<hr>
+
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Agbortoko"> <img src="https://badges.strrl.dev/repos/Agbortoko"></div>
 
 <div align="center"><img src="https://badges.strrl.dev/contributions/yearly/Agbortoko"> <img src="https://badges.strrl.dev/contributions/monthly/rashidshamloo"> <img src="https://badges.strrl.dev/contributions/weekly/Agbortoko"> <img src="https://badges.strrl.dev/contributions/daily/Agbortoko"></div>
 
 <div align="center"><img src="https://badges.strrl.dev/commits/yearly/Agbortoko"> <img src="https://badges.strrl.dev/commits/monthly/Agbortoko"> <img src="https://badges.strrl.dev/commits/weekly/Agbortoko"> <img src="https://badges.strrl.dev/commits/daily/Agbortoko"></div>
-<hr>
+
 
 
 
