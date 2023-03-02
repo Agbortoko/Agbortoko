@@ -33,7 +33,7 @@
 <img src="fem.png" alt="Frontendmentor" title="Frontendmentor" width="32" height="32" /></a></div>
 
 
-<h2>:wrench: Languages and Tools</h3>
+<h2 align="center">:wrench: Languages and Tools</h3>
 <div align="center"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 
 <h2 align="center">:fire: GitHub Statistics</h2>
