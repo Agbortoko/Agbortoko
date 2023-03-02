@@ -24,7 +24,7 @@
 
 
 
-<h2>:two_men_holding_hands: Connect with Me</h2>
+<h2 align="center">:two_men_holding_hands: Connect with Me</h2>
 <div align="center"><a href="mailto:therabbitmaid@gmail.com"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" alt="Email" title="Email" width="32" height="32" /></a> <a href="[https://www.linkedin.com/in/rashid-shamloo/](https://twitter.com/agbortoko_arrey)"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkedin" title="Linkedin" width="32" height="32" /></a> <a href="https://twitter.com/agbortoko_arrey/"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="32" height="32" /> <a href="https://www.frontendmentor.io/profile/Agbortoko">
 <img src="fem.png" alt="Frontendmentor" title="Frontendmentor" width="32" height="32" /></a></div>
 
@@ -32,7 +32,7 @@
 <h2>:wrench: Languages and Tools</h3>
 <div align="center"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 
-<h2>:fire: GitHub Statistics</h2>
+<h2 align="center">:fire: GitHub Statistics</h2>
 
 <div align="center"><a href="https://github.com/Agbortoko"><img height="300" src="https://github-profile-trophy.vercel.app/?username=Agbortoko&theme=onedark&margin-w=3&margin-h=3&no-frame=true&row=2&column=3"></a> <a href="https://github.com/Agbortoko"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agbortoko&theme=onedark&hide_border=true"></a></div>
 
